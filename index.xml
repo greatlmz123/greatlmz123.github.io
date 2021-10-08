@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Oct 2021 22:51:34 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Zoltaxian!</title>
+      <link>http://example.org/posts/firstpost/</link>
+      <pubDate>Fri, 08 Oct 2021 22:51:34 +0800</pubDate>
+      
+      <guid>http://example.org/posts/firstpost/</guid>
+      <description>Zoltaxian is a galaxy full of creative people, aliens, robots and many other. This is the first post here.</description>
+    </item>
+    
+  </channel>
+</rss>
